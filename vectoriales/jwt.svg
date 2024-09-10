@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="121mm"
+   height="102mm"
+   viewBox="0 0 121 102"
+   version="1.1"
+   id="svg931"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="jwt.svg"
+   inkscape:export-filename="jwt.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview933"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.4182101"
+     inkscape:cx="230.57232"
+     inkscape:cy="222.81607"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8000" />
+  <defs
+     id="defs928">
+    <marker
+       style="overflow:visible"
+       id="marker1199"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path1197" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g8000"
+       transform="translate(17.431894,2.3194767)">
+      <path
+         inkscape:connector-curvature="0"
+         d="m -11.575066,43.215872 c -1.878943,1.000083 -3.020119,2.98673 -3.730625,5.053542 h 13.2291626 c -0.6505813,-2.022956 -1.7084468,-3.979045 -3.4395819,-5.053542 -1.7428431,-0.07578 -3.9372308,0 -6.0589557,0 z"
+         id="path966-4"
+         style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#666666;stroke-width:0.882;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         id="path710-0"
+         sodipodi:stroke-cmyk="(0 0 0 0.8)"
+         style="font-size:12px;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#666666;stroke-width:0.882;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         cx="-8.6910973"
+         cy="40.156349"
+         r="5.0864377" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;font-family:VT323;-inkscape-font-specification:VT323;text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.881999;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       x="9.0769901"
+       y="55.674072"
+       id="text9554"><tspan
+         sodipodi:role="line"
+         id="tspan9552"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.882"
+         x="9.0769901"
+         y="55.674072">Usuario</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#5b0000;stroke-width:0.882;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect2597"
+       width="42.639946"
+       height="37.758976"
+       x="76.703758"
+       y="5.3625832" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;font-family:VT323;-inkscape-font-specification:VT323;text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.881999;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       x="98.00106"
+       y="3.9417911"
+       id="text9554-0"><tspan
+         sodipodi:role="line"
+         id="tspan9552-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.882"
+         x="98.00106"
+         y="3.9417911">Proveedor de Identidad</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.881999;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       x="23.254604"
+       y="39.650051"
+       id="text9835"
+       transform="rotate(-30)"><tspan
+         sodipodi:role="line"
+         id="tspan9833"
+         style="font-size:3.52778px;stroke-width:0.882"
+         x="23.254604"
+         y="39.650051">Nombre de usuario</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.882"
+         x="23.254604"
+         y="44.059776"
+         id="tspan9837" /><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:0.882"
+         x="23.254604"
+         y="48.469501"
+         id="tspan9839">Contraseña</tspan></text>
+    <path
+       style="fill:none;fill-opacity:1;stroke:#666666;stroke-width:0.882;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2);paint-order:stroke markers fill"
+       d="M 17.173607,39.698509 70.565335,8.9839113"
+       id="path11668" />
+    <circle
+       style="fill:#0618b0;fill-opacity:1;stroke:none;stroke-width:0.881999;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path11939"
+       cx="38.200062"
+       cy="12.169879"
+       r="4.3057842" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#0618b0;fill-opacity:1;stroke:none;stroke-width:0.881999;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       x="38.659981"
+       y="14.688242"
+       id="text11995"><tspan
+         sodipodi:role="line"
+         id="tspan11993"
+         style="font-size:7.05556px;fill:#ffffff;fill-opacity:1;stroke-width:0.882"
+         x="38.659981"
+         y="14.688242">1</tspan></text>
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.881999;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect12941"
+       width="1.8904892"
+       height="0.56714678"
+       x="184.51175"
+       y="121.36942" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#5b0000;stroke-width:1.05809;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect2597-9"
+       width="83.608704"
+       height="29.280575"
+       x="35.632957"
+       y="66.887512" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;font-family:VT323;-inkscape-font-specification:VT323;text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.881999;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       x="81.858215"
+       y="100.89891"
+       id="text9554-0-3"><tspan
+         sodipodi:role="line"
+         id="tspan9552-4-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.882"
+         x="81.858215"
+         y="100.89891">Servidor de Recursos</tspan></text>
+    <path
+       style="fill:#faffff;stroke:#666666;stroke-width:0.882;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1199);paint-order:stroke markers fill"
+       d="M 76.472483,34.151372 21.181989,45.872295"
+       id="path941"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;white-space:pre;inline-size:9.03811;display:inline;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.881999;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       x="89.08017"
+       y="63.236446"
+       id="text1305"
+       transform="rotate(-12.3,-25.112994,200.81708)"><tspan
+         x="89.08017"
+         y="63.236446"
+         id="tspan558"><tspan
+           style="stroke-width:0.882"
+           id="tspan556">JWT</tspan></tspan></text>
+    <circle
+       style="fill:#0618b0;fill-opacity:1;stroke:none;stroke-width:0.881999;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path11939-2"
+       cx="44.002304"
+       cy="47.275421"
+       r="4.3057842" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#0618b0;fill-opacity:1;stroke:none;stroke-width:0.881999;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       x="44.021255"
+       y="49.829964"
+       id="text11995-9"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;fill:#ffffff;fill-opacity:1;stroke-width:0.882"
+         x="44.021255"
+         y="49.829964"
+         id="tspan1597">2</tspan></text>
+    <g
+       id="g4448"
+       transform="translate(-26.458336,-28.045835)">
+      <rect
+         style="fill:#fb0170;fill-opacity:1;stroke:none;stroke-width:0.881999;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="rect1653"
+         width="36.732048"
+         height="9.2885637"
+         x="106.25554"
+         y="37.013519" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.88056px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#fb0170;fill-opacity:1;stroke:none;stroke-width:0.881999;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         x="124.53819"
+         y="43.11301"
+         id="text2615"><tspan
+           sodipodi:role="line"
+           id="tspan2613"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.882"
+           x="124.53819"
+           y="43.11301">Encabezado</tspan></text>
+    </g>
+    <g
+       id="g4443"
+       transform="translate(-26.458336,-28.18657)">
+      <rect
+         style="fill:#d63aff;fill-opacity:1;stroke:none;stroke-width:0.881999;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="rect1653-6"
+         width="36.732048"
+         height="9.2885637"
+         x="106.3259"
+         y="47.850178" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.88056px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#fb0170;fill-opacity:1;stroke:none;stroke-width:0.881999;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         x="124.60856"
+         y="53.949673"
+         id="text2615-4"><tspan
+           sodipodi:role="line"
+           id="tspan2613-1"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.882"
+           x="124.60856"
+           y="53.949673">Datos</tspan></text>
+    </g>
+    <g
+       id="g4438"
+       transform="translate(-26.458336,-28.045835)">
+      <rect
+         style="fill:#00b9f1;fill-opacity:1;stroke:none;stroke-width:0.881999;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="rect1653-6-2"
+         width="36.732048"
+         height="9.2885637"
+         x="106.3259"
+         y="58.405365" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.88056px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#fb0170;fill-opacity:1;stroke:none;stroke-width:0.881999;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         x="124.60857"
+         y="64.50486"
+         id="text2615-4-4"><tspan
+           sodipodi:role="line"
+           id="tspan2613-1-5"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.882"
+           x="124.60857"
+           y="64.50486">Clave Privada</tspan></text>
+    </g>
+    <rect
+       style="fill:#ed903e;fill-opacity:1;stroke:#f0720f;stroke-width:0.882;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect6525"
+       width="35.746891"
+       height="17.169765"
+       x="81.204575"
+       y="69.624802" />
+    <g
+       id="g4438-0"
+       transform="matrix(0.96188484,0,0,1,-21.564931,17.974775)">
+      <rect
+         style="fill:#00b9f1;fill-opacity:1;stroke:none;stroke-width:0.881999;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         id="rect1653-6-2-7"
+         width="36.732048"
+         height="9.2885637"
+         x="107.05746"
+         y="59.249779" />
+      <text
+         xml:space="preserve"
+         style="font-size:3.88056px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#fb0170;fill-opacity:1;stroke:none;stroke-width:0.881999;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         x="125.46327"
+         y="65.349274"
+         id="text2615-4-4-0"><tspan
+           sodipodi:role="line"
+           id="tspan2613-1-5-3"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.882"
+           x="125.46327"
+           y="65.349274">Clave Pública</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#ed903e;fill-opacity:1;stroke:#f0720f;stroke-width:0.881999;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       x="98.515076"
+       y="73.706123"
+       id="text7479"><tspan
+         sodipodi:role="line"
+         id="tspan7477"
+         style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.882"
+         x="98.515076"
+         y="73.706123">Verificar JWT</tspan></text>
+    <rect
+       style="fill:#d63aff;fill-opacity:1;stroke:none;stroke-width:0.730423;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="rect1653-6-4"
+       width="25.191711"
+       height="9.2885637"
+       x="37.083862"
+       y="77.365303" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#fb0170;fill-opacity:1;stroke:none;stroke-width:0.881999;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       x="49.5774"
+       y="83.46476"
+       id="text2615-4-45"><tspan
+         sodipodi:role="line"
+         id="tspan2613-1-1"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.882"
+         x="49.5774"
+         y="83.46476">Recurso</tspan></text>
+    <path
+       style="fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:0.882;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2);paint-order:stroke markers fill"
+       d="M 16.88829,51.75137 76.560263,72.298795"
+       id="path7586"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:0.881999;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:3.528, 1.764;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2);paint-order:stroke markers fill"
+       d="m 80.219382,82.150302 -16.747537,0.14074"
+       id="path7884" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:0.881999;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:3.52801, 1.764;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       x="72.056702"
+       y="87.49823"
+       id="text8028"><tspan
+         sodipodi:role="line"
+         id="tspan8026"
+         style="stroke:none;stroke-width:0.882"
+         x="72.056702"
+         y="87.49823">¿Válido?</tspan></text>
+    <circle
+       style="fill:#0618b0;fill-opacity:1;stroke:none;stroke-width:0.881999;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       id="path11939-2-1"
+       cx="36.231609"
+       cy="64.866051"
+       r="4.3057842" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#0618b0;fill-opacity:1;stroke:none;stroke-width:0.881999;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+       x="36.250561"
+       y="67.420593"
+       id="text11995-9-0"><tspan
+         sodipodi:role="line"
+         style="font-size:7.05556px;fill:#ffffff;fill-opacity:1;stroke-width:0.882"
+         x="36.250561"
+         y="67.420593"
+         id="tspan1597-4">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1;stroke:none;stroke-width:0.881999;stroke-linecap:round;stroke-miterlimit:4.7;stroke-dasharray:3.52801, 1.764;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill"
+       x="65.536774"
+       y="41.096466"
+       id="text11489"
+       transform="rotate(19.2)"><tspan
+         sodipodi:role="line"
+         id="tspan11487"
+         style="stroke-width:0.882"
+         x="65.536774"
+         y="41.096466">Petición + JWT</tspan></text>
+  </g>
+</svg>
